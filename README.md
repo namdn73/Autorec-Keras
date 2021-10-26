@@ -1,7 +1,7 @@
 # Autorec-Keras
-Autorec is a neural network based on Auto-Encoder architecture used for Recommendation System.
+AutoRec is a neural network based on Auto-Encoder architecture used for Recommendation System.
 
-There are two versions of Autorec model: item-based Autorec (I-Autorec) and user-based (I-Autorec).
+There are two versions of Autorec model: item-based AutoRec (I-AutoRec) and user-based (I-AutoRec).
 
 Link of paper: https://www.researchgate.net/publication/311491420_AutoRec_Autoencoders_Meet_Collaborative_Filtering.
 
